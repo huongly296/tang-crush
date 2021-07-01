@@ -2,7 +2,7 @@ const CONFIG = {
     introTitle: 'Conlon Xu à!',
     introDesc: `Xem cái này đi hay cực :)))`,
     btnIntro: 'hihi',
-    title: 'Mình đã code chíc này đọ 😙',
+    title: 'Mình đã sửa code chíc này đọ 😙, nhưng k biết sửa nhạc và Title :v',
     desc: 'Học hành mà ra trường đi nhaaa ',
     btnYes: 'Tất nhiên là học',
     btnNo: 'Không, Xu lon thích chơi hơn :3',
